@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi Kumar Pathak
-- 👀 I’m interested in ... Anything related to Digital Design Flow..
-- 🌱 I’m currently learning ... Advance concepts on Transmission Protocals (UART, SPI, I2C,DSI), FPGA Design & Architecture and ASIC Flow..
-- 💞️ I’m looking to collaborate on ... RTL coding, Verification, Synthesis... 
+- 👀 I’m interested in ... Anything related to Digital Design Flow(Behavioral, Structural, Physical)..
+- 🌱 I’m currently learning ... Advance concepts on Transmission Protocals (UART, SPI, I2C,DSI), FPGA Design & Architecture and ASIC & FPGA Flow..
+- 💞️ I’m looking to collaborate on ... RTL coding, Static Checks(Lint, CDC, FSM), Synthesis(Constraints, Optimization, Timing)... 
 - 📫 How to reach me ... rkp21423@gmail.com ravi.pathak@frenustech.com
 
 I am electronics & instrumentation engineer with Outstanding analytical and problem-solving capabilities. Tireless work ethic.
